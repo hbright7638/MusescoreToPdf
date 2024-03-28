@@ -1,6 +1,6 @@
-# Scorescribe
+# ScoreScribe
 
-Scorescribe is a Python web scraper built with Selenium, designed to extract sheet music data from Musescore and convert it into PDF format for user convenience.
+ScoreScribe is a Python web scraper built with Selenium, designed to extract sheet music data from Musescore and convert it into PDF format for user convenience.
 
 ## Features:
 - **Web Scraping:** Utilizes Selenium to scrape sheet music data from Musescore, a popular online repository for musical scores.
